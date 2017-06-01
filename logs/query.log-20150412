@@ -1,0 +1,260 @@
+[Mon Apr  6 11:15:45.893 2015] 0.004 sec 0.004 sec [ext2/1/rel 4 (0,20)] [*] healthcare
+[Mon Apr  6 14:17:23.854 2015] 0.004 sec 0.004 sec [ext2/1/rel 122 (0,100000)] [*] employees
+[Mon Apr  6 14:17:46.743 2015] 0.005 sec 0.005 sec [ext2/1/rel 28 (0,100000)] [*] state employees
+[Mon Apr  6 14:17:56.585 2015] 0.005 sec 0.005 sec [ext2/1/rel 28 (0,100000)] [*] state employees
+[Mon Apr  6 14:17:59.165 2015] 0.005 sec 0.005 sec [ext2/1/rel 28 (0,100000)] [*] state employees
+[Mon Apr  6 14:18:05.245 2015] 0.005 sec 0.005 sec [ext2/1/rel 28 (0,100000)] [*] state employees
+[Mon Apr  6 14:18:07.825 2015] 0.005 sec 0.005 sec [ext2/1/rel 28 (0,100000)] [*] state employees
+[Mon Apr  6 14:18:09.975 2015] 0.005 sec 0.005 sec [ext2/1/rel 28 (0,100000)] [*] state employees
+[Mon Apr  6 14:18:12.411 2015] 0.005 sec 0.005 sec [ext2/1/rel 28 (0,100000)] [*] state employees
+[Mon Apr  6 14:28:17.247 2015] 0.004 sec 0.004 sec [ext2/1/rel 13 (0,100000)] [*] human resources
+[Mon Apr  6 14:28:30.667 2015] 0.004 sec 0.004 sec [ext2/1/rel 13 (0,100000)] [*] human resources
+[Mon Apr  6 14:28:34.390 2015] 0.005 sec 0.005 sec [ext2/1/rel 13 (0,100000)] [*] human resources
+[Mon Apr  6 14:28:38.284 2015] 0.004 sec 0.004 sec [ext2/1/rel 13 (0,100000)] [*] human resources
+[Mon Apr  6 14:29:24.654 2015] 0.004 sec 0.004 sec [ext2/1/rel 47 (0,100000)] [*] retirement
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] SEA-LEVEL RISE
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] SEA LEVEL RISE
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] GLOBAL WARMING
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] SOLAR
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] CLIMATE CHANGE
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] COAL
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] DUKE
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] ABORTION
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] ASH
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] DAN RIVER
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 1 (0,20)] [*] RENEWABLE
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] HOG
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] FRACKING
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] DRILLING
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] NATURAL GAS
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] VELOCIRAPTOR
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 1 (0,20)] [*] CARBON
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] HOUND
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] REESE
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] CHAPEL HILL
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] CAPITOL HOUND
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] REESE 
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] REESE NEWS
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] REESE NEWS LAB
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] UNIVERSITY
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] JOURNALISM
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] WRAL
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] COAL ASH
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] INCENTIVES
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] PUBLIC PRIVATE PARTNERSHIP
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] TEACHER PAY
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] TENURE
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] OPPORTUNITY SCHOLARSHIPS
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] TAX REFORM
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] PROPERTY TAX
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] FILM
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] READ TO ACHIEVE
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] COMMON CORE
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 2 (0,20)] [*] EDUCATION
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 1 (0,20)] [*] TEACHERS
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] TEACHING
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] VOTING 
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] UNC
+[Tue Apr  7 11:04:45.678 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] CURRICULUM 
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 1 (0,20)] [*] GASTON
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] GASTONIA
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] BELMONT
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] MOUNT HOLLY
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] CHERRYVILLE
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] GENERAL ASSEMBLY
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] PAT HURLEY
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] ALLEN MCNEILL
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] JERRY TILLMAN
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] PUBLIC RECORDS
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] OPEN MEETINGS
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] TRANSPARENCY
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] 132
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] 143
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] CHAPTER 132
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] HIGHER EDUCATION
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] PUBLIC NOTICES
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] "GUILFORD COUNTY"
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] GUILFORD
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] GREENSBORO
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] ROCKINGHAM
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] PAT MCCRORY
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] SAME SEX MARRIAGE
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] GOVERNOR MCCRORY
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] CHARLOTTE AIRPORT
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] CHARLOTTE-DOUGLAS AIRPORT
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] MINIMUM WAGE
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 2 (0,20)] [*] PRAYER
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] CHARLOTTE
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] CASINO
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] VACCINATION
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] VACCINE
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] DOMESTIC VIOLENCE
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] POLICE VIDEO
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] CARRBORO
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] AUDIO
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] BRUNSWICK
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] BRUNSWICK COUNTY
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] CAROLINA SHORES
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] CALABASH
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] SUNSET BEACH
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] OCEAN ISLE BEACH
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] MAD INLET
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] LOCKWOOD FOLLY
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] SHALLOTTE
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] BOLIVIA
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] SUPPLY
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] LELAND
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] NAVASSA
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] BELVILLE
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] BOILING SPRING LAKES
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] SOUTHPORT
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] OAK ISLAND
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] ST. JAMES
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] SANDY CREEK
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] VARNAMTOWN
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] CIVIETOWN
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] GRISSETTOWN
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] TOWN CREEK
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] WINNABOW
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] SENATOR BILL RABON
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] REPRESENTATIVE FRANK ILER
+[Tue Apr  7 11:04:45.679 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] REPRESENTATIVE SUSI HAMILTON
+[Tue Apr  7 12:20:51.072 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,100000)] [*] Senate Bill 608
+[Wed Apr  8 14:33:36.482 2015] 0.228 sec 0.228 sec [ext2/1/rel 3 (0,100000)] [*] social work
+[Wed Apr  8 16:56:51.164 2015] 0.013 sec 0.013 sec [ext2/1/rel 4 (0,20)] [*] healthcare
+[Wed Apr  8 17:11:13.704 2015] 0.018 sec 0.018 sec [ext2/1/rel 11 (0,100000)] [*] Reynolds
+[Wed Apr  8 17:11:35.848 2015] 0.003 sec 0.003 sec [ext2/1/rel 11 (0,100000)] [*] Reynolds
+[Wed Apr  8 17:11:50.461 2015] 0.003 sec 0.003 sec [ext2/1/rel 11 (0,100000)] [*] Reynolds
+[Wed Apr  8 17:11:55.503 2015] 0.004 sec 0.004 sec [ext2/1/rel 11 (0,100000)] [*] Reynolds
+[Wed Apr  8 17:12:34.852 2015] 0.015 sec 0.015 sec [ext2/1/rel 0 (0,100000)] [*] RJR
+[Wed Apr  8 17:12:41.084 2015] 0.004 sec 0.004 sec [ext2/1/rel 2 (0,100000)] [*] Reynolds
+[Wed Apr  8 17:18:31.690 2015] 0.062 sec 0.062 sec [ext2/1/rel 0 (0,100000)] [*] tobacco manufacturing
+[Wed Apr  8 17:18:48.223 2015] 0.004 sec 0.004 sec [ext2/1/rel 6 (0,100000)] [*] Reynolds
+[Wed Apr  8 17:19:04.115 2015] 0.003 sec 0.003 sec [ext2/1/rel 6 (0,100000)] [*] Reynolds
+[Wed Apr  8 17:19:09.173 2015] 0.003 sec 0.003 sec [ext2/1/rel 6 (0,100000)] [*] Reynolds
+[Wed Apr  8 17:24:33.991 2015] 0.003 sec 0.003 sec [ext2/1/rel 6 (0,100000)] [*] Reynolds
+[Wed Apr  8 17:25:04.010 2015] 0.002 sec 0.002 sec [ext2/1/rel 0 (0,100000)] [*] tobacco
+[Wed Apr  8 17:26:04.666 2015] 0.004 sec 0.004 sec [ext2/1/rel 11 (0,100000)] [*] tobacco
+[Wed Apr  8 17:27:22.356 2015] 0.004 sec 0.004 sec [ext2/1/rel 11 (0,100000)] [*] tobacco
+[Wed Apr  8 17:27:30.311 2015] 0.205 sec 0.205 sec [ext2/1/rel 1 (0,100000)] [*]  I believe within the next two days
+[Wed Apr  8 17:28:37.509 2015] 0.022 sec 0.022 sec [ext2/1/rel 1 (0,100000)] [*] next two days
+[Fri Apr 10 08:00:35.500 2015] 0.007 sec 0.007 sec [ext2/1/rel 2028 (0,100000)] [*] the
+[Fri Apr 10 08:00:48.193 2015] 0.006 sec 0.006 sec [ext2/1/rel 4 (0,100000)] [*] the
+[Fri Apr 10 08:30:59.876 2015] 0.006 sec 0.006 sec [ext2/1/rel 4 (0,100000)] [*] the
+[Fri Apr 10 08:31:11.136 2015] 0.007 sec 0.007 sec [ext2/1/rel 2028 (0,100000)] [*] the
+[Fri Apr 10 08:31:23.692 2015] 0.007 sec 0.007 sec [ext2/1/rel 2028 (0,100000)] [*] the
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] SEA-LEVEL RISE
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] SEA LEVEL RISE
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] GLOBAL WARMING
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] SOLAR
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] CLIMATE CHANGE
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] COAL
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] DUKE
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] ABORTION
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] ASH
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] DAN RIVER
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] RENEWABLE
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] HOG
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] FRACKING
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] DRILLING
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] NATURAL GAS
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] VELOCIRAPTOR
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 1 (0,20)] [*] CARBON
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] HOUND
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] REESE
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] CHAPEL HILL
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] CAPITOL HOUND
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] REESE 
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] REESE NEWS
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] REESE NEWS LAB
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] UNIVERSITY
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] JOURNALISM
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] WRAL
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] COAL ASH
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] INCENTIVES
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] PUBLIC PRIVATE PARTNERSHIP
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] TEACHER PAY
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] TENURE
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] OPPORTUNITY SCHOLARSHIPS
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] TAX REFORM
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] PROPERTY TAX
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] FILM
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] READ TO ACHIEVE
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] COMMON CORE
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 2 (0,20)] [*] EDUCATION
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] TEACHERS
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] TEACHING
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] VOTING 
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] UNC
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] CURRICULUM 
+[Fri Apr 10 08:32:24.285 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] GASTON
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] GASTONIA
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] BELMONT
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] MOUNT HOLLY
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] CHERRYVILLE
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] GENERAL ASSEMBLY
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] PAT HURLEY
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] ALLEN MCNEILL
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] JERRY TILLMAN
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] PUBLIC RECORDS
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] OPEN MEETINGS
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] TRANSPARENCY
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] 132
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] 143
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] CHAPTER 132
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] HIGHER EDUCATION
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] PUBLIC NOTICES
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] "GUILFORD COUNTY"
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] GUILFORD
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] GREENSBORO
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] ROCKINGHAM
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] PAT MCCRORY
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] SAME SEX MARRIAGE
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] GOVERNOR MCCRORY
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] CHARLOTTE AIRPORT
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] CHARLOTTE-DOUGLAS AIRPORT
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] MINIMUM WAGE
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 2 (0,20)] [*] PRAYER
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] CHARLOTTE
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] CASINO
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] VACCINATION
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] VACCINE
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] DOMESTIC VIOLENCE
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] POLICE VIDEO
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] CARRBORO
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] AUDIO
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] BRUNSWICK
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] BRUNSWICK COUNTY
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] CAROLINA SHORES
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] CALABASH
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] SUNSET BEACH
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] OCEAN ISLE BEACH
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] MAD INLET
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] LOCKWOOD FOLLY
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] SHALLOTTE
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] BOLIVIA
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 1 (0,20)] [*] SUPPLY
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] LELAND
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] NAVASSA
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] BELVILLE
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] BOILING SPRING LAKES
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] SOUTHPORT
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] OAK ISLAND
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] ST. JAMES
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] SANDY CREEK
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] VARNAMTOWN
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] CIVIETOWN
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] GRISSETTOWN
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] TOWN CREEK
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] WINNABOW
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] SENATOR BILL RABON
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] REPRESENTATIVE FRANK ILER
+[Fri Apr 10 08:32:24.286 2015] 0.007 sec 0.007 sec [ext2/1/rel 0 (0,20)] [*] REPRESENTATIVE SUSI HAMILTON
+[Fri Apr 10 12:30:00.888 2015] 0.017 sec 0.017 sec [ext2/1/rel 137 (0,100000)] [*] Setzer
+[Fri Apr 10 12:30:20.908 2015] 0.017 sec 0.017 sec [ext2/1/rel 137 (0,100000)] [*] Setzer
+[Fri Apr 10 12:30:25.344 2015] 0.017 sec 0.017 sec [ext2/1/rel 137 (0,100000)] [*] Setzer
+[Fri Apr 10 12:30:41.780 2015] 0.017 sec 0.017 sec [ext2/1/rel 137 (0,100000)] [*] Setzer
+[Fri Apr 10 12:30:59.270 2015] 0.017 sec 0.017 sec [ext2/1/rel 137 (0,100000)] [*] Setzer
+[Fri Apr 10 12:31:30.703 2015] 0.019 sec 0.019 sec [ext2/1/rel 137 (0,100000)] [*] Setzer

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Capitol Hound is an audio transcription service and email alert service for the North Carolina General Assembly.">
+    <meta name="author" content="Reese News Lab.">
+    <link rel="shortcut icon" href="assets/images/favicon.ico">
+
+    <title>Capitol Hound</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="assets/css/cover.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy this line! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body data-spy="scroll" data-target=".scrollnav">
+
+    <div class="site-wrapper" id="home">
+
+      <div class="site-wrapper-inner">
+
+        <div class="cover-container">
+          <div class="inner cover center">
+            <img src="assets/images/CapitolHound_WhiteandGreen.png" height="300" alt="Capitol Hound">
+
+            <h1>Thank you for your interest <br/>in Capitol Hound.</h1>
+            <br/>
+            <h3>We will be in touch with you shortly for subscription information.</h3>
+            <br/>
+            <a href="/" class="btn btn-lg btn-default">Learn more</a>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="mastfoot">
+        <div class="inner center">
+          <p>A product of the <a target="_blank" href="http://reesenewslab.org">Reese News Lab</a>.</p>
+        </div>
+      </div>
+
+    </div>
+
+    
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/docs.min.js"></script>
+    <script>
+      // SCROLLSPY
+      $('body').scrollspy({ target: '.scrollnav' })
+
+      // SMOOTH SCROLLING
+      $(function() {
+        $('a[href*=#]:not([href=#])').click(function() {
+          if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+            var target = $(this.hash);
+            target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+            if (target.length) {
+              $('html,body').animate({
+                scrollTop: target.offset().top
+              }, 1000);
+              return false;
+            }
+          }
+        });
+      });
+    </script>
+  </body>
+</html>
